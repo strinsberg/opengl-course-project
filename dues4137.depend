@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1586109588 source:d:\exoma\downloads\deus4137\deus4137\src\block.cpp
+	"../include/Block.h"
+	"../include/GameObject.h"
+	"../include/LookAt.h"
+	"../include/Road.h"
+	"../include/Building.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<cstdlib>
+
+1586109706 d:\exoma\downloads\deus4137\deus4137\include\block.h
+	"./GameObject.h"
+	"./LookAt.h"
+	<vector>
+
+1586109704 d:\exoma\downloads\deus4137\deus4137\include\gameobject.h
+	"./LookAt.h"
+
+1585938688 d:\exoma\downloads\deus4137\deus4137\include\lookat.h
+	<vector>
+	<string>
+
+1586109702 d:\exoma\downloads\deus4137\deus4137\include\road.h
+	"./GameObject.h"
+	"./LookAt.h"
+
+1586109705 d:\exoma\downloads\deus4137\deus4137\include\building.h
+	"./GameObject.h"
+	"./LookAt.h"
+
+1586109601 source:d:\exoma\downloads\deus4137\deus4137\src\building.cpp
+	"../include/Building.h"
+	"../include/LookAt.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+
+1586112200 source:d:\exoma\downloads\deus4137\deus4137\src\game.cpp
+	"../include/Game.h"
+	"../include/LookAt.h"
+	"../include/Building.h"
+	"../include/Road.h"
+	"../include/Block.h"
+	"../include/Hummer.h"
+	<cmath>
+
+1586109705 d:\exoma\downloads\deus4137\deus4137\include\game.h
+	"./GameObject.h"
+	"./LookAt.h"
+	"./Hummer.h"
+	<vector>
+
+1586109704 d:\exoma\downloads\deus4137\deus4137\include\hummer.h
+	"./GameObject.h"
+	"./LookAt.h"
+	<vector>
+
+1586112196 source:d:\exoma\downloads\deus4137\deus4137\src\hummer.cpp
+	"../include/Hummer.h"
+	"../include/GameObject.h"
+	"../include/LookAt.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<cmath>
+	<vector>
+
+1586109663 source:d:\exoma\downloads\deus4137\deus4137\src\road.cpp
+	"../include/Road.h"
+	"../include/GameObject.h"
+	"../include/LookAt.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1586111757 source:d:\exoma\downloads\deus4137\deus4137\src\main.cpp
+	"../include/Game.h"
+	"../include/LookAt.h"
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string>
+	<chrono>
+	<thread>
+	<cmath>
+	<iostream>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
